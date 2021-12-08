@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SudokuAnalysis/static/css/main.ce3f9c13.chunk.css",
+    "main.js": "/SudokuAnalysis/static/js/main.c6f7ee50.chunk.js",
+    "main.js.map": "/SudokuAnalysis/static/js/main.c6f7ee50.chunk.js.map",
+    "runtime-main.js": "/SudokuAnalysis/static/js/runtime-main.031938b1.js",
+    "runtime-main.js.map": "/SudokuAnalysis/static/js/runtime-main.031938b1.js.map",
+    "static/js/2.067dc2ac.chunk.js": "/SudokuAnalysis/static/js/2.067dc2ac.chunk.js",
+    "static/js/2.067dc2ac.chunk.js.map": "/SudokuAnalysis/static/js/2.067dc2ac.chunk.js.map",
+    "static/js/3.00474853.chunk.js": "/SudokuAnalysis/static/js/3.00474853.chunk.js",
+    "static/js/3.00474853.chunk.js.map": "/SudokuAnalysis/static/js/3.00474853.chunk.js.map",
+    "index.html": "/SudokuAnalysis/index.html",
+    "static/css/main.ce3f9c13.chunk.css.map": "/SudokuAnalysis/static/css/main.ce3f9c13.chunk.css.map",
+    "static/js/2.067dc2ac.chunk.js.LICENSE.txt": "/SudokuAnalysis/static/js/2.067dc2ac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SudokuAnalysis/static/media/logo.6ce24c58.svg",
+    "static/media/sudA.adfb62f8.csv": "/SudokuAnalysis/static/media/sudA.adfb62f8.csv",
+    "static/media/sudB.b055572a.csv": "/SudokuAnalysis/static/media/sudB.b055572a.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.031938b1.js",
+    "static/js/2.067dc2ac.chunk.js",
+    "static/css/main.ce3f9c13.chunk.css",
+    "static/js/main.c6f7ee50.chunk.js"
+  ]
+}
