@@ -1,4 +1,6 @@
 {
+
+  "homepage": "http://karthik-36.github.io/SudokuAnalysis",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +11,7 @@
     "csv-parse": "^5.0.3",
     "csv-parser": "^3.0.0",
     "d3": "^7.1.1",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -16,6 +19,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

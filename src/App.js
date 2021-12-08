@@ -503,7 +503,7 @@ function App() {
 
       <div>
         <h1>Sudoku B number inputs given(1/2/3/4)(reading available to B only)</h1>
-        <p><b>x-axis</b> : user number (1-10)  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>y-axis</b> : number of arrow inputs given &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        <p><b>x-axis</b> : user number (1-10)  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>y-axis</b> : number of keyboard number inputs given &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
         <p> <b>Average keyboard inputs per user per game : </b> {bTime6} </p>
         <p> (0 on y means axis means the user did not use number input at all) </p>
         
